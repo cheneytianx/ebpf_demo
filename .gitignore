@@ -3,5 +3,5 @@ vmlinux.h
 *.o
 exec
 tc
-cilium_ebpf/cilium_ebpf
+cilium_ebpf/count
 cilium_ebpf/count_bpfel.go
